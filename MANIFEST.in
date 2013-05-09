@@ -1,0 +1,2 @@
+recursive-include ninfo_plugin_shodan *.mako
+
