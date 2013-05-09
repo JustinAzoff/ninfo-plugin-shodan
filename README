@@ -1,0 +1,4 @@
+Configuration:
+
+[plugin:shodan]
+api_key = ...
