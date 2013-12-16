@@ -6,7 +6,7 @@ class shodan_plug(PluginBase):
     title   =    'Shodan'
     description   =  'Computer Search Engine'
     cache_timeout   =  60*60*2
-    types   =    ['ip','ip6']
+    types   =    ['ip']
     remote = False
 
     def setup(self):
