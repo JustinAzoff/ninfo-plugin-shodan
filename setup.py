@@ -8,6 +8,7 @@ setup(name='ninfo-plugin-shodan',
     install_requires=[
         "ninfo>=0.1.11",
         "shodan",
+        "simplejson",
     ],
     entry_points = {
         'ninfo.plugin': [
